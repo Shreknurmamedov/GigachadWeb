@@ -1,0 +1,178 @@
+body {
+    background: #070707;
+}
+
+aside {
+    float: left;
+    background: #faf038;
+    width: 20%;
+    padding:2.5%;
+    height: 210vh;
+    color: #fff;
+    border-right: 5px solid #2c2c2c;
+    min-width: 250px;
+}
+
+aside img {
+    width: 100%;
+    float: left;
+    margin-left: 10px;
+}
+aside .logo{
+
+    font-size: 40px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+aside h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10%;
+    font-size: 200%;
+    color: #373941;
+}
+aside h4{
+    margin-top: 80%;
+    margin-right: 10%;
+    color: #373941;
+    text-align: center;
+    font-size: 13px;
+
+
+}
+ aside ul {list-style: none}
+ aside ul li{
+     color: #373941;
+     display: block;
+     margin-top: 20px;
+     transition: transform .6s ease;
+     text-align: left;
+     margin-left: 15%;
+     margin-right: 15%;
+ }
+
+ aside ul li:hover, aside ul a:hover {
+     color: #6c6c6c;
+     text-decoration: none;
+     transform: scale(1.05);
+ }
+
+
+
+
+ main .features {
+     float: left;
+     color: #373941;
+     margin-top: 100px;
+     margin-left: 20px;
+     text-align: center;
+     width: 75%;
+ }
+
+  .alert-light{
+      float: left;
+      clear: both;
+      width: 600px;
+      text-align: center;
+      color: #645f5a;
+      margin-left: 41%;
+      margin-top: 10%;
+ }
+
+  div h1{
+      float: left;
+      clear: both;
+      width: 500px;
+      text-align: center;
+      margin: 20px 38%;
+      color: #b4afaa;
+
+  }
+  div h3{
+      text-align: center;
+
+  }
+  div p{
+      text-align: center;
+      width: 100%;
+      margin-left: 0%
+
+  }
+  div img{
+      width: 1800px;
+      margin-right: 10px;
+      margin-top: 70px;
+      margin-left: 5%;
+
+  }
+
+  form {
+      margin-left: 32%;
+      width: 500px;
+      margin-top: 50px;
+  }
+
+  .trenirovka button{
+      margin-top: 100px;
+      margin-right: 5%;
+      margin-left: 31%;
+      text-align: center;
+      color: #373941;
+  }
+
+.NAVI_MAIN{
+    float: left;
+    color: #373941;
+    margin-top: 100px;
+    margin-left: 20px;
+    text-align: center;
+    width: 75%;
+}
+
+  .NAVI_MAIN h5{
+      width: 90%;
+      text-align: left;
+      margin-left: 5%;
+      color: #b4afaa;
+      margin-bottom: 10px;
+
+
+  }
+
+  .NAVI_MAIN img{
+      margin-top: 5%;
+      width: 1800px;
+  }
+
+ div h6{
+     text-align: center;
+     width: 100px;
+     margin-left: 41%;
+     font-size: 120%;
+ }
+
+div h7{
+    text-align: left;
+    margin-right: 25%;
+    font-size: 30px;
+    min-margin-left: 5%;
+
+}
+div h8{
+    text-align: right;
+    font-size: 30px;
+    margin-left: 10%;
+    min-margin-right: 0%;
+}
+
+.features h1{
+    margin-left: 43%;
+}
+
+
+
+
+
+
